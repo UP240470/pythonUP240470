@@ -129,7 +129,19 @@ radio = 10
 area = 3.14 * radio ** 2
 print("El area de un circulo con radio {} es {} metros cuadrados".format(radio, int(area)))
 
+#36.
+a=8
+b=6
+print("{} + {} = {}".format(a, b, a + b))
+print("{} - {} = {}".format(a, b, a - b))
+print("{} * {} = {}".format(a, b, a * b))
+print("{} / {} = {:.2f}".format(a, b, a / b))
+print("{} % {} = {}".format(a, b, a % b))
+print("{} // {} = {}".format(a, b, a // b))
+print("{} ** {} = {}".format(a, b, a ** b))
+
+#l
 
 
 
-
+#prueba

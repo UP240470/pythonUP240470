@@ -86,7 +86,7 @@ edad_usuario=str(input("Dame tu edad"))
 print("tu nombre es ",nombre_usuario,"nu apellido es ",apellido_usuario,"Tu pais es ",pais_usuario,"Tu edad es ",edad)
 
 
-
+#prueba
 
 
 

@@ -12,3 +12,4 @@ num_amgigos=4, lentes=10, computadoras=50
 
 
 
+#prueba
